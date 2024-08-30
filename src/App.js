@@ -1,23 +1,76 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Navbar from './Components/Navbar';
+import Landing from './Components/Landing';
+import Identity from './Components/Identity';
+import Values from './Components/Values';
+import Success from './Components/Success';
+import Fund from './Components/Fund';
+import Partners from './Components/Partners';
+import { Route, Routes, BrowserRouter as Router } from 'react-router-dom';
+import Intern from './Components/Intern';
+import About from './Components/About';
+import Aboutlp from './Components/Aboutlp';
+import Salama from './Components/Salama';
+import Sponsor from './Components/Sponsor';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Router>
+        <Routes>
+          <Route path="/" element ={
+            <>
+              <Navbar/>
+              <Landing/>
+              <Identity/>
+              <Values/>
+              <Success/>
+              <Fund/>
+              <Partners/>
+            </>
+          }></Route>
+
+          <Route path='/intern-page' element={
+            <>
+              <Navbar/>
+              <Intern/>
+            </>
+          }></Route>
+
+          <Route path='/about' element={
+            <>
+            <Navbar/>
+            <About/>
+            </>
+          }></Route>
+
+          <Route path='/about-lpk' element={
+            <>
+            <Navbar/>
+            <Aboutlp/>
+            </>
+          }></Route>
+
+          <Route path='/salama-school' element={
+            <>
+              <Navbar/>
+              <Salama/>
+            </>
+          }></Route>
+
+          <Route path='/sponsor' element={
+            <>
+              <Navbar/>
+              <Sponsor/>
+            </>
+          }></Route>
+
+        </Routes>
+      </Router>
+
+
+      
     </div>
   );
 }
