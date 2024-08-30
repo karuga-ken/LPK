@@ -10,7 +10,7 @@ function Aboutlp() {
     <>
         <div>
             <div>
-                <img className='w-full mb-5' style={{height:'300px',}} src={hands} />
+                <img className='w-full mb-5' style={{height:'300px',}} src={hands} alt='ken'/>
 
                 <h1 className='text-4xl font-semibold text-red-500' style={{letterSpacing:'1px'}}>
                     ABOUT US
@@ -35,7 +35,7 @@ function Aboutlp() {
                 </div>
 
                 <div>
-                    <img className='w-full my-5 sm:px-40' style={{height:'300px',}}  src={team}/>
+                    <img className='w-full my-5 sm:px-40' style={{height:'300px',}}  src={team} alt='ken'/>
                 </div>
 
                 <div className='mb-5'>
@@ -91,7 +91,7 @@ function Aboutlp() {
                     </h1>
                     <div className='sm:flex align-center justify-center gap-5 border border-1 border-white border-b-gray-300 mb-4 pb-5'>
                         <div className='sm:w-1/2'>
-                            <img className='rounded-md' src={port}/>
+                            <img className='rounded-md' src={port} alt='d'/>
                             <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
                             <p className='font-light'>
                             Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
@@ -99,7 +99,7 @@ function Aboutlp() {
                         </div>
 
                         <div className='sm:w-1/2'>
-                            <img className='rounded-md' src={port}/>
+                            <img className='rounded-md' src={port} alt='d'/>
                             <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
                             <p className='font-light'>
                             Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
@@ -107,7 +107,7 @@ function Aboutlp() {
                         </div>
                         
                         <div className='sm:w-1/2'>
-                            <img  className='rounded-md' src={port}/>
+                            <img  className='rounded-md' src={port} alt='df'/>
                             <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
                             <p className='font-light'>
                             Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
@@ -117,7 +117,7 @@ function Aboutlp() {
 
                     <div className='sm:flex align-center justify-center gap-5 '>
                         <div className='sm:w-1/2'>
-                            <img className='rounded-md' src={port}/>
+                            <img className='rounded-md' src={port} alt='ken'/>
                             <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
                             <p className='font-light'>
                             Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
@@ -125,7 +125,7 @@ function Aboutlp() {
                         </div>
 
                         <div className='sm:w-1/2'>
-                            <img className='rounded-md' src={port}/>
+                            <img className='rounded-md' src={port} alt='ekn'/>
                             <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
                             <p className='font-light'>
                             Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
@@ -133,7 +133,7 @@ function Aboutlp() {
                         </div>
 
                         <div className='sm:w-1/2'>
-                            <img className='rounded-md' src={port}/>
+                            <img className='rounded-md' src={port} alt='sdf'/>
                             <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
                             <p className='font-light'>
                             Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.

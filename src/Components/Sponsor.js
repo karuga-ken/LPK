@@ -12,7 +12,7 @@ function Sponsor() {
   return (
     <>
         <div>
-            <img className='w-full brightness-50' style={{height:'300px'}} src = {kid}/>
+            <img className='w-full brightness-50' style={{height:'300px'}} src = {kid} alt='d'/>
             <div className='absolute top-1/3 transform -translate-x-1/2 -translate-y-1/2 left-1/2 flex gap-10 mb-12 align-center justify-center bg-opacity-10 backdrop-filter backdrop-blur-sm'>
                 <h1 className='font-light p-2  text-white text-xl' style={{letterSpacing:'1px'}}>
                     To sponsor a kid means to write the history of a child<br/> <span className='text-blue-500'>in your handwriting!</span>
@@ -75,7 +75,7 @@ function Sponsor() {
                 </h1>
             <div className='flex gap-10 mb-10 mt-10'>
                         <div className='w-1/2'>
-                            <img className='rounded-md' src={john}/>
+                            <img className='rounded-md' src={john} alt='d'/>
                         </div>
                         <div className='w-1/2'>
                             <h1 className='m-4 '>
@@ -109,7 +109,7 @@ function Sponsor() {
 
                     <div className='flex gap-10 mb-10 mt-10'>
                         <div className='w-1/2'>
-                            <img className='rounded-md' src={girl}/>
+                            <img className='rounded-md' src={girl} alt='e'/>
                         </div>
                         <div className='w-1/2'>
                             <h1 className='m-4 '>
