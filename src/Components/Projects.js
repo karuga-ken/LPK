@@ -43,6 +43,14 @@ function Projects() {
           {activeComponent === 'Weep' && <Weep />}
           {activeComponent === 'Ovc' && <Ovc />}
         </div>
+
+        <div className='mx-12 px-12 bg-red-500 text-white mb-5 pb-5 rounded-md'>
+            
+            <h1 className='text-xl mt-5'style={{letterSpacing:'1px'}}>WEEP Graduation</h1>
+                    <p className='text-left font-thin mt-2'>
+                    At the end of the third phase of WEEP, the women celebrate with a graduation ceremony to celebrate 18 months of hard work and growth. Graduation is a very exciting time for everyone at LPK. It is an opportunity to acknowledge each participant and wish them well moving forward. By this point, each woman’s business is thriving independently, and they are prepared to support themselves and their families with their newfound skills and confidence!
+                    </p>
+            </div>
       </div>
     </>
   );
