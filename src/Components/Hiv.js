@@ -6,11 +6,11 @@ function Hiv() {
   return (
     <>
     <div >
-        <div className='bg-gray-100 rounded-md mx-12'>
+        <div className='bg-gray-100 rounded-md sm:mx-12'>
             <h1 className='text-2xl' style={{letterSpacing:'1px'}}>
                 HIV INTERVENTION
             </h1>
-            <div className='text-left mx-12 my-5'>
+            <div className='sm:text-left sm:mx-12 my-5'>
                 <p className='font-thin'>
                 The initial interaction between LPK and HIV positive women is through the first phase, referred to as HIV INTERVENTION.<br/>
                 <br/>
@@ -24,12 +24,12 @@ function Hiv() {
                 </p>
             </div>
 
-            <div className='flex gap-10 mt-5 mx-12'>
-                <div className='w-1/2'>
+            <div className='sm:flex gap-10 mt-5 sm:mx-12'>
+                <div className='sm:w-1/2'>
                     <img className='rounded-md' src={support} />
                 </div>
-                <div className='w-1/2 '>
-                    <p className='text-left font-thin'>
+                <div className='sm:w-1/2 '>
+                    <p className='sm:text-left font-thin'>
                         SUPPORT GROUP<br/>
                         <br/>
                         Once a week, the women in the program meet to learn from and support each other, as well as to eat, laugh, and just relax. This is an incredibly important aspect of the program in that it gives the women a community and support system that they desperately need in order to heal and regain their spirits.<br/>
@@ -38,12 +38,12 @@ function Hiv() {
                 </div>
             </div>
 
-            <div className='flex gap-10 mt-5 mx-12'>
-                <div className='w-1/2'>
+            <div className='sm:flex gap-10 mt-5 sm:mx-12'>
+                <div className='sm:w-1/2'>
                     <img className='rounded-md' src={home} />
                 </div>
-                <div className='w-1/2 '>
-                    <p className='text-left font-thin'>
+                <div className='sm:w-1/2 '>
+                    <p className='sm:text-left font-thin'>
                         HOME BASED CARE<br/>
                         <br/>
                         This service is provided when any of the women in the intervention program are too ill to come into the program to check in. Staff make sure they have everything they need until they are well again.<br/>
@@ -52,12 +52,12 @@ function Hiv() {
                 </div>
             </div>
 
-            <div className='flex gap-10 mt-5 mx-12'>
-                <div className='w-1/2'>
+            <div className='sm:flex gap-10 mt-5 sm:mx-12'>
+                <div className='sm:w-1/2'>
                     <img className='rounded-md' src={home} />
                 </div>
-                <div className='w-1/2 '>
-                    <p className='text-left font-thin'>
+                <div className='sm:w-1/2 '>
+                    <p className='sm:text-left font-thin'>
                         ADVOCACY<br/>
                         <br/>
                         Self-advocacy is an important skill women must learn in order to empower themselves. It is also equally important to educate the community on HIV/AIDS through community events..<br/>
