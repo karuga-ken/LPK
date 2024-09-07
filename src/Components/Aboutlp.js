@@ -52,9 +52,11 @@ function Aboutlp() {
                         The initial interaction between LPK and HIV positive women is through the first phase, referred to as HIV INTERVENTION.
                         The purpose of this program is to get HIV-positive women out of the slums and on to the path to recovery..
                         </p>
-                        <button className='p-1 rounded-md mt-3 bg-white '>
+                        <Link to='/programs'>
+                        <button className='p-1 rounded-md mt-3 bg-red-500 text-white '>
                             Learn More
                         </button>
+                        </Link>
                     </div>
 
                     <div className='sm:w-1/2 p-2 mx-5'>
@@ -64,9 +66,12 @@ function Aboutlp() {
                         <p className=' text-sm sm:text-left'>
                         WEEP is an initiative that aims to save HIV-positive women from a life of rejection and poverty by empowering them to live sustainable lives.
                         </p>
+                        <Link to='/programs'>
                         <button className='p-1 rounded-md mt-3 bg-red-500 text-white '>
                             Learn More
                         </button>
+                        </Link>
+
                     </div>
 
                     <div className='sm:w-1/2 bg-red-500 p-2 rounded-md mx-5' >
@@ -78,10 +83,11 @@ function Aboutlp() {
                         The OVC Program’s creation goes back to the start when Mum began cooking for and feeding the women in the slums. Children began to gather at the site where she was cooking. Many of these children were as young as 2 years old, but they had nobody to supervise them.
                         </p>
 
-
-                        <button className='p-1 rounded-md mt-3 bg-white '>
+                        <Link to='/programs'>
+                        <button className='p-1 rounded-md mt-3 bg-red-500 text-white '>
                             Learn More
                         </button>
+                        </Link>
                     </div>
                 </div>
 

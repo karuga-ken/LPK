@@ -4,8 +4,8 @@ function Weep() {
   return (
     <>
     <div className=''>
-        <div className='mx-12 bg-gray-100 px-12 pt-5 pb-5 rounded-md'>
-            <h1 className='text-2xl'>
+        <div className='sm:mx-12 bg-gray-100 px-12 pt-5 pb-5 rounded-md'>
+            <h1 className='sm:text-2xl'>
                 The Women Economic Empowerment Program (WEEP)
             </h1>
             <p className='text-left font-thin mt-2'>
@@ -15,7 +15,7 @@ function Weep() {
             </p>
 
             <div className='mt-5'>
-                <h1 className='text-xl underline'>
+                <h1 className='sm:text-xl underline'>
                     Phase I: Stabilise With HIV Intervention
                 </h1>
                 <p className='text-left font-thin mt-2'>
@@ -48,7 +48,7 @@ function Weep() {
             </div>
 
             <div className='mt-5'>
-                <h1 className='text-xl'>
+                <h1 className='sm:text-xl'>
                     Phase II: Empower With Skill Teaching
                 </h1>
                 <p className='text-left font-thin mt-2'>
@@ -77,7 +77,7 @@ function Weep() {
             </div>
 
             <div className='mt-5'>
-                <h1 className='text-xl'>
+                <h1 className='sm:text-xl'>
                     Phase III: Thrive With A Business Plan
                 </h1>
                 <p className='text-left font-thin mt-2'>
