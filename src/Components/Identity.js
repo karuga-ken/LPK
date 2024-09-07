@@ -10,9 +10,12 @@ function Identity() {
                     <span className='text-3xl mb-5'>Served Over</span> <br/> <span className='text-5xl font-semibold mb-5'>500,000+</span> <br/> <span className='text-3xl'>Families & Women in Ngong Community</span>
                 </h1>
 
-                <button className='bg-white m-2 p-4 rounded-md hover:bg-black hover:text-white' style={{letterSpacing:'1px'}}>
-                    VIEW OUR PROGRAMS
-                </button>
+                <Link to='/programs'>
+                    <button className='bg-white m-2 p-4 rounded-md hover:bg-black hover:text-white' style={{letterSpacing:'1px'}}>
+                        VIEW OUR PROGRAMS
+                    </button>
+                </Link>
+
             </div>
 
             <div className='bg-white sm:w-1/2 sm:text-left  pb-8 p-2 rounded-md h-auto'>

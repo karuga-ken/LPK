@@ -13,6 +13,7 @@ import About from './Components/About';
 import Aboutlp from './Components/Aboutlp';
 import Salama from './Components/Salama';
 import Sponsor from './Components/Sponsor';
+import Projects from './Components/Projects';
 
 function App() {
   return (
@@ -63,6 +64,13 @@ function App() {
             <>
               <Navbar/>
               <Sponsor/>
+            </>
+          }></Route>
+
+          <Route path='/programs' element={
+            <>
+              <Navbar/>
+              <Projects/>
             </>
           }></Route>
 
