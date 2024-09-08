@@ -100,7 +100,7 @@ function Weep() {
                     </li>
                     <li className='font-semibold'>
                     Financial support is slowly reduced until the women are completely independent.
-                    </li>Financial support is slowly reduced until the women are completely independent.
+                    </li>
                 </ul>
             </div>
         </div>
