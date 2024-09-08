@@ -5,7 +5,7 @@ function Ovc() {
   return (
     <>
       <div className='bg-gray-100 pb-5 pt-5 sm:mx-12 sm:px-12 rounded-md'>
-        <h1 className='text-xl sm:text-2xl font-semibold text-center sm:text-left'>
+        <h1 className='text-xl sm:text-2xl font-semibold text-center text-left'>
           Orphans & Vulnerable Children
         </h1>
 

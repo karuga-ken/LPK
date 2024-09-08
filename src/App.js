@@ -14,6 +14,7 @@ import Aboutlp from './Components/Aboutlp';
 import Salama from './Components/Salama';
 import Sponsor from './Components/Sponsor';
 import Projects from './Components/Projects';
+import Contact from './Components/Contact';
 
 function App() {
   return (
@@ -74,6 +75,12 @@ function App() {
             </>
           }></Route>
 
+          <Route path='/contact' element={
+            <>
+              <Navbar/>
+              <Contact/>
+            </>
+          }></Route>
         </Routes>
       </Router>
 
