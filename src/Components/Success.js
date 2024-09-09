@@ -27,15 +27,15 @@ function Success() {
               MEET SALAMA SCHOOL
             </h1>
             <p className='text-white text-2xl sm:text-3xl mb-6'>
-              Knowledge is power. We Successfully Provide <br className='hidden sm:block' /> Education in Our Community
+              Education Is The Most Powerful Weapon,<br className='hidden sm:block' /> Which You Can Use To Change The World.
             </p>
 
             <p className='text-white mb-6'>
-              Far far away, behind the word mountains, far from the countries Vokalia <br className='hidden sm:block' /> and Consonantia, there live the blind texts.
+              At LPK we believe that when we educate one we have educated  <br className='hidden sm:block' /> and transformed a community
             </p>
 
             <p className='text-white font-semibold text-lg sm:text-xl'>
-              We have schooled over 5,000 children
+              We have schooled over 500+ children
             </p>
 
             <Link to='/salama-school'>

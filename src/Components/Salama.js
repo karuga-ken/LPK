@@ -86,10 +86,11 @@ function Salama() {
                         </h1>
                         <div className='bg-gray-100 p-4 rounded-md'>
                             <p className='text-left'>
-                            Sponsorship is the best and simplest way you can help children in the Ngong Community. Sponsoring a child means you are supporting their education. The money will go directly to funding that specific child’s fees, which include: ​ Uniforms, Meals, Medical fees and School supplies​​​
-                            As a sponsor, you will receive regular communication, including reports on the child’s grades, photos, and letters from your child so that you are able to stay up to date on their growth.<br/>
-                            <br/>
                             Often, families cannot afford these fees, and so the child does not go to school. Instead, children spend their days on the streets and in the slums, where they are vulnerable to drugs, violence, and abuse.<br/>
+                            <br/>
+                            Sponsorship is the best and simplest way you can help children in the Ngong Community. Sponsoring a child means you are supporting their education. The money will go directly to funding that specific child’s fees, which include: ​ Uniforms, Meals, Medical fees and School supplies​​​.
+                            As a sponsor, you will receive regular communication, including reports on the child’s grades, photos, and letters from your child so that you are able to stay up to date on their growth.<br/>
+                            
                             <br/>
                             ​When you commit to sponsoring a child, you are committing to that child’s education through to secondary school. Depending on the age of the child you are sponsoring, the cost per year and length of commitment will differ.
                             </p>
