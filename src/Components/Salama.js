@@ -86,9 +86,9 @@ function Salama() {
                         </h1>
                         <div className='bg-gray-100 p-4 rounded-md'>
                             <p className='text-left'>
-                            Often, families cannot afford these fees, and so the child does not go to school. Instead, children spend their days on the streets and in the slums, where they are vulnerable to drugs, violence, and abuse.<br/>
+                            Often, families are unable to afford school fees, and so the child does not get education. Instead, children spend their days on the streets and in the slums, where they are vulnerable to drugs, violence, physical and sexual abuse leading to early pregnancies.<br/>
                             <br/>
-                            Sponsorship is the best and simplest way you can help children in the Ngong Community. Sponsoring a child means you are supporting their education. The money will go directly to funding that specific child’s fees, which include: ​ Uniforms, Meals, Medical fees and School supplies​​​.
+                            Sponsorship is the best and simplest way you can help children in the Kajiado North Community. Sponsoring a child means you are supporting their education. The money will go directly to funding that specific child’s fees, which include: ​ Uniforms, Meals, Medical fees and School supplies​​​.
                             As a sponsor, you will receive regular communication, including reports on the child’s grades, photos, and letters from your child so that you are able to stay up to date on their growth.<br/>
                             
                             <br/>
