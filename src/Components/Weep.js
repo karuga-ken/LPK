@@ -32,7 +32,7 @@ function Weep() {
                         Access to anti-retrovirals
                     </li>
                     <li className='font-semibold'>
-                        Home-based treatment fro diseases
+                        Home-based Care
                     </li>
                     <li className='font-semibold'>
                         Reproductive health services
@@ -52,7 +52,7 @@ function Weep() {
                     Phase II: Empower With Skill Teaching
                 </h1>
                 <p className='text-left font-thin mt-2'>
-                Once the women have accepted their status and healed from the emotional trauma of rejection at the hands of their loved ones, they are prepared to focus their energy on the next phase. They are enrolled into the WEEP Centre, where they learn skills they can use to start a business or find a job. Skills include:
+                Once the women have accepted their status and healed from the emotional trauma of rejection at the hands of their loved ones, they are prepared to focus their energy on the next phase. They are enrolled into the WEEP Centre, where they learn helpful skills to start a business or find a job. Skills include:
                 
                 </p>
 
@@ -81,7 +81,7 @@ function Weep() {
                     Phase III: Thrive With A Business Plan
                 </h1>
                 <p className='text-left font-thin mt-2'>
-                Once the women have accepted their status and healed from the emotional trauma of rejection at the hands of their loved ones, they are prepared to focus their energy on the next phase. They are enrolled into the WEEP Centre, where they learn skills they can use to start a business or find a job. Skills include:
+                After they have gone through the training, the women develop their business plans so that they can provide for their children’s needs, both financially and emotionally, and send them to school. The process looks like this: 
                 
                 </p>
 
