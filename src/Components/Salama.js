@@ -112,8 +112,9 @@ function Salama() {
                                 <br/>
                                 <span className='font-semibold'>15 - 18 Years Old (HighSchool)</span>
                                 <br/>
-                                Sponsoring a child through High-School depends on the study mode they are on (Day School/Boarding School), and the level of institution they are on whether public regional/National School or private regional/National School .<br/>
+                                Sponsoring a child through High-School depends on the study mode they are on (Day School/Boarding School), and the level of institution they are on whether Regional/National School.<br/>
                                 <br/>
+                                School Fees ranges between 45,000 - 80,000 Kenyan Shillings. (Approximately $450 - $800 USD, depending on exchange rate)
 
                                 {/* There are 2 options for HighSchool:<br/>
                                 <br/>
