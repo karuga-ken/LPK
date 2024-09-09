@@ -112,11 +112,12 @@ function Salama() {
                                 <br/>
                                 <span className='font-semibold'>15 - 18 Years Old (HighSchool)</span>
                                 <br/>
-                                There are 2 options for HighSchool:<br/>
+                                Sponsoring a child through High-School depends on the study mode they are on (Day School/Boarding School), and the level of institution they are on whether regional/National School.
+                                {/* There are 2 options for HighSchool:<br/>
                                 <br/>
-                                1. Day-School: 20,000 Kenyan Shillings per year. (Approximately $230 USD, depending on exchange rate)
-                                <br/>
-                                2. Boarding-School: 35,000 Kenyan Shillings per year. (Approximately $357 USD, depending on exchange rate)
+                                1. Day-School: 45,000 Kenyan Shillings per year. (Approximately $450 USD, depending on exchange rate)
+                                <br/> */}
+                                2. Boarding-School: It ranges between 70,000 - 90,000 Kenyan Shillings per year. (Approximately $700 - $900 USD, depending on exchange rate)
 
 
                                 
