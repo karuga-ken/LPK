@@ -22,10 +22,10 @@ function Ovc() {
         <div className='sm:flex sm:space-x-10 space-y-5 sm:space-y-0 mt-5'>
           <div className='sm:w-1/2 bg-white rounded-md p-5 shadow-md'>
             <h2 className='text-lg font-medium mb-2'>
-              Daycare & Salama School
+              Salama School
             </h2>
             <p className='text-left font-thin text-sm sm:text-base'>
-              Salama School houses classrooms for children from 3-6 years old. Many of the students are children of women in WEEP. There is also a daycare attached to the school. Salama offers the children a safe place during the day while their parents are either working or taking part in WEEP.
+              Salama School houses classrooms for children from 3-8 years old. Many of the students are children from the slum areas of Ngong whose parents are unable to support their education. Additionally many of them are either infected/affected by HIV/AIDS. Salama offers the children a safe place during the day while their parents are either working or taking part in WEEP Programme.
             </p>
             <Link to='/salama-school'>
               <button className='bg-red-500 text-white p-2 rounded-md mt-5 hover:bg-black transition-colors'>
@@ -35,7 +35,7 @@ function Ovc() {
           </div>
 
           <div className='sm:w-1/2 bg-white rounded-md p-5 shadow-md'>
-            <h2 className='text-lg font-medium mb-2'>Sponsor</h2>
+            <h2 className='text-lg font-medium mb-2'>Sponsorship Programme</h2>
             <p className='text-left font-thin text-sm sm:text-base'>
               The Sponsorship program allows you to sponsor a child, to get them off the streets and into school.
             </p>
