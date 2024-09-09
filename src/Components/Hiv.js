@@ -20,7 +20,7 @@ function Hiv() {
 
                 Teaching women self-advocacy and organising community events to educate them on HIV/AIDS are also important parts of LPK’s efforts to address the illness.<br/>
                 <br/>
-                The Program Consists of Three Parts:
+                The Program Consists of:
                 </p>
             </div>
 
@@ -60,11 +60,12 @@ function Hiv() {
                     <p className='sm:text-left font-thin'>
                         ADVOCACY<br/>
                         <br/>
-                        Self-advocacy is an important skill women must learn in order to empower themselves. It is also equally important to educate the community on HIV/AIDS through community events..<br/>
-                        Self-advocacy is an important skill women must learn in order to empower themselves. It is also equally important to educate the community on HIV/AIDS through community events.
+                        Self-advocacy is an important skill women must learn in order to empower themselves. It is also equally important to educate the community on HIV/AIDS through community events.<br/>
                     </p>
                 </div>
             </div>
+
+
         </div>
     </div>
     </>
