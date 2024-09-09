@@ -119,7 +119,7 @@ function Salama() {
                                 <br/>
                                 1. Day-School: 45,000 Kenyan Shillings per year. (Approximately $450 USD, depending on exchange rate)
                                 <br/> */}
-                                2. Boarding-School: It ranges between 70,000 - 90,000 Kenyan Shillings per year. (Approximately $700 - $900 USD, depending on exchange rate)
+                                {/* 2. Boarding-School: It ranges between 70,000 - 90,000 Kenyan Shillings per year. (Approximately $700 - $900 USD, depending on exchange rate) */}
 
 
                                 
