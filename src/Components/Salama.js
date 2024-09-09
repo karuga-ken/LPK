@@ -104,11 +104,11 @@ function Salama() {
                                 <br/>
                                 There are 3 options for Primary School:<br/>
                                 <br/>
-                                1. Public School: 20,000 Kenyan Shillings per year. (Approximately $230 USD, depending on exchange rate)
+                                1. Public School: 23,000 Kenyan Shillings per year. (Approximately $230 USD, depending on exchange rate)
                                 <br/>
-                                2. Private School: 35,000 Kenyan Shillings per year. (Approximately $357 USD, depending on exchange rate)
+                                2. Private School: 35,700 Kenyan Shillings per year. (Approximately $357 USD, depending on exchange rate)
                                 <br/>
-                                3. Boarding School: 55,000 Kenyan Shillings per year. (Approximately $650 USD, depending on exchange rate)<br/>
+                                3. Boarding School: 65,000 Kenyan Shillings per year. (Approximately $650 USD, depending on exchange rate)<br/>
                                 <br/>
                                 <span className='font-semibold'>15 - 18 Years Old (HighSchool)</span>
                                 <br/>
