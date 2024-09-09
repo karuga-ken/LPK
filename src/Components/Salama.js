@@ -92,7 +92,7 @@ function Salama() {
                             As a sponsor, you will receive regular communication, including reports on the child’s grades, photos, and letters from your child so that you are able to stay up to date on their growth.<br/>
                             
                             <br/>
-                            ​When you commit to sponsoring a child, you are committing to that child’s education through to secondary school. Depending on the age of the child you are sponsoring, the cost per year and length of commitment will differ.
+                            ​When you commit to sponsoring a child, you are committing to that child’s education through to tertiary level. Depending on the age of the child you are sponsoring, the cost per year and length of commitment will differ.
                             </p>
 
                             <p className='text-left mt-4'>
