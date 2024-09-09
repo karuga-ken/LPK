@@ -98,7 +98,7 @@ function Salama() {
                             <p className='text-left mt-4'>
                                 <span className='font-semibold'>2 - 8 Years Old (Pre-Primary)</span>
                                 <br/>
-                                They can be enrolled at Salama School which is run by Living Positive Kenya. This will cost 23,000 Kenyan Shillings per year. This cost will include daily lunches for the child.<br/>
+                                They can be enrolled at Salama School which is run by Living Positive Kenya. This will cost 23,000 Kenyan Shillings per year. This cost will include tuition fees, daily meals for the child.<br/>
                                 <br/>
                                 <span className='font-semibold'>6 - 13 Years Old (Primary School)</span>
                                 <br/>
