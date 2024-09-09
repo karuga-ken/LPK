@@ -29,15 +29,15 @@ function Contact() {
               Meet Us
             </h1>
             <p className='text-left' style={{ fontSize: window.innerWidth < 768 ? '2rem' : '1rem', color: 'green' }}>
-              <FontAwesomeIcon icon={faPhoneVolume} /> <span className='text-black text-xl'>+254 789765433 / +254 709768453</span>
+              <FontAwesomeIcon icon={faPhoneVolume} /> <span className='text-black text-xl'>+254 722620516 / +254 704470555</span>
             </p>
             <br/>
             <p className='text-left' style={{ fontSize: window.innerWidth < 768 ? '2rem' : '1rem', color: 'green' }}>
-              <FontAwesomeIcon icon={faEnvelopeCircleCheck} /> <span className='text-black text-xl'>livingpositivekenya@org.com</span>
+              <FontAwesomeIcon icon={faEnvelopeCircleCheck} /> <span className='text-black text-xl'>livingpositivekenya@gmail.com</span>
             </p>
             <br/>
             <p className='text-left' style={{ fontSize: window.innerWidth < 768 ? '2rem' : '1rem', color: 'green' }}>
-              <FontAwesomeIcon icon={faInstagram} /> <span className='text-black text-xl'>livingpositivekenya</span>
+              <FontAwesomeIcon icon={faInstagram} /> <span className='text-black text-xl'>livingPositiveKenya</span>
             </p>
             <br/>
             <p className='text-left' style={{ fontSize: window.innerWidth < 768 ? '2rem' : '1rem', color: 'green' }}>
