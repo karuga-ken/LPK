@@ -7,7 +7,7 @@ function Identity() {
         <div className=' p-6 pr-12 pl-12 sm:flex gap-10 py-16'>
             <div className='bg-red-500 sm:w-1/2 p-2 pt-8 pb-8 h-auto text-left pl-8 rounded-md'>
                 <h1 className='mb-6 p-4' style={{letterSpacing:'2px'}}>
-                    <span className='text-3xl mb-5'>Served Over</span> <br/> <span className='text-5xl font-semibold mb-5'><span className='text-white'>500,000+</span></span> <br/> <span className='text-3xl'>Families & Women in Ngong Community</span>
+                    <span className='text-3xl mb-5'>Served Over</span> <br/> <span className='text-6xl font-semibold mb-5'><span className='text-white'>2,000+</span></span> <br/> <span className='text-3xl'>Families in Kajiado North Community</span>
                 </h1>
 
                 <Link to='/programs'>
