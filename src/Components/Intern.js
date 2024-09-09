@@ -17,7 +17,7 @@ function Intern() {
                         <h1 className='text-gray-400 mb-5' style={{letterSpacing:'1px'}}>STEP ONE</h1>
                         <p className='text-3xl mb-2' style={{letterSpacing:'1px'}}>Prepare Travel Documents</p>
                         <p>Start by ensuring that your passport is valid for at least 6 months beyond your planned stay.
-                             .Next, obtain a visa. Depending on the nature of your internship, you may need either a Tourist Visa, which typically 
+                             Next, obtain a visa. Depending on the nature of your internship, you may need either a Tourist Visa, which typically 
                              allows for a stay of up to 90 days, or a Student/Internship Visa, which is more specific to internship purposes. 
                               Additionally, check whether you need any vaccinations 
                              or health certificates to enter Kenya. Lastly, it’s important to have travel
@@ -88,7 +88,7 @@ function Intern() {
                        <h1 className='text-xl text-red-500 mb-2'>Where Can I stay?</h1>
                        <p className='font-light text-sm mb-2'>
                        Depending on the size of the group and availability, accommodation can be provided at the intern house which is
-                    located in the same building as Mum’s home in nearby Matasia. You are also welcome to seek out your own accommodation in the area.   
+                        located near LPK'S office in Matasia. You are also welcome to seek out your own accommodation in the area.   
                        </p>
 
                        <h1 className='text-xl text-red-500 mb-2'>What are the costs associated with interning?</h1>

@@ -1,5 +1,5 @@
 import React from 'react';
-import happy from './Images/happy.jpg';
+import happy from './Images/lpbanner.jpg';
 import { Link } from 'react-router-dom';
 
 function Success() {
