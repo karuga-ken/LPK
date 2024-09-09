@@ -129,7 +129,7 @@ function Salama() {
                             <div>
 
                             <Link to = '/sponsor'>
-                                <button className='p-3 bg-blue-500 rounded-md mt-5 text-white hover:bg-white hover:text-blue-500 font-light'>
+                                <button className='p-3 bg-blue-500 rounded-md mt-5 text-white hover:bg-pink-100 hover:text-black font-light'>
                                         View Children Up for Sponsorship
                                     </button>
                             </Link> 

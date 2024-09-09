@@ -3,7 +3,7 @@ import passport from './Images/passport.jpg'
 import form from './Images/form.jpg'
 import email from './Images/email.jpg'
 import { Link } from 'react-router-dom'
-import Internform from './Files/KARUGA_MBUGUA_CV.pdf'
+import Internform from './Files/sample.pdf'
 
 function Intern() {
   return (
