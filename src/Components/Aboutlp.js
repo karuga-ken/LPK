@@ -4,6 +4,7 @@ import team from './Images/team.jpg'
 import { Link } from 'react-router-dom'
 import port from './Images/port.jpg'
 import mary from './Images/mary.jpg'
+import Tabby from './Images/tabby.jpg'
 
 function Aboutlp() {
   return (
@@ -96,23 +97,23 @@ function Aboutlp() {
                         Meet Our Team
                     </h1>
                     <div className='sm:flex align-center justify-center gap-5 border border-1 border-white border-b-gray-300 mb-4 pb-5'>
-                        <div className='sm:w-1/2'>
-                            <img className='rounded-md' src={port} alt='d'/>
+                        <div className='sm:w-1/2 flex flex-col items-center justify-center'>
+                            <img className='rounded-md' src={mary} alt='d'/>
                             <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
                             <p className='font-light'>
                             Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
                             </p>
                         </div>
 
-                        <div className='sm:w-1/2'>
-                            <img className='rounded-md' src={port} alt='d'/>
-                            <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
+                        <div className='sm:w-1/2  flex flex-col items-center justify-center'>
+                            <img className='rounded-md' src={Tabby} alt='d'/>
+                            <h1 className='text-2xl font-semibold'>Tabitha Muthoni</h1>
                             <p className='font-light'>
-                            Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
+                            Tabby’s smile has been the first thing visitors see when they step foot into the LPK office.
                             </p>
                         </div>
                         
-                        <div className='sm:w-1/2'>
+                        <div className='sm:w-1/2 flex flex-col items-center justify-center'>
                             <img  className='rounded-md' src={port} alt='df'/>
                             <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
                             <p className='font-light'>
@@ -122,7 +123,7 @@ function Aboutlp() {
                     </div>
 
                     <div className='sm:flex align-center justify-center gap-5 '>
-                        <div className='sm:w-1/2'>
+                        <div className='sm:w-1/2 flex flex-col items-center justify-center'>
                             <img className='rounded-md' src={port} alt='ken'/>
                             <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
                             <p className='font-light'>
@@ -130,7 +131,7 @@ function Aboutlp() {
                             </p>
                         </div>
 
-                        <div className='sm:w-1/2'>
+                        <div className='sm:w-1/2 flex flex-col items-center justify-center'>
                             <img className='rounded-md' src={port} alt='ekn'/>
                             <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
                             <p className='font-light'>
@@ -138,7 +139,7 @@ function Aboutlp() {
                             </p>
                         </div>
 
-                        <div className='sm:w-1/2'>
+                        <div className='sm:w-1/2 flex flex-col items-center justify-center'>
                             <img className='rounded-md' src={port} alt='sdf'/>
                             <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
                             <p className='font-light'>

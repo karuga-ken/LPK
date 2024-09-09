@@ -1,5 +1,5 @@
 import React from 'react'
-import salama from './Images/salama.jpg'
+import salama from './Images/children.jpg'
 import daycare from './Images/daycare.jpg'
 import prim from './Images/prim.jpg'
 import upper from './Images/upper.jpg'
