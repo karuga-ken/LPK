@@ -100,15 +100,25 @@ function Salama() {
                                 <br/>
                                 They can be enrolled at Salama School which is run by Living Positive Kenya. This will cost 23,000 Kenyan Shillings per year. This cost will include tuition fees, daily meals for the child.<br/>
                                 <br/>
-                                <span className='font-semibold'>6 - 13 Years Old (Primary School)</span>
+                                <span className='font-semibold'>8 - 14 Years Old (Primary School)</span>
                                 <br/>
                                 There are 3 options for Primary School:<br/>
                                 <br/>
                                 1. Public School: 20,000 Kenyan Shillings per year. (Approximately $230 USD, depending on exchange rate)
                                 <br/>
-                                2 .Private School: 35,000 Kenyan Shillings per year. (Approximately $357 USD, depending on exchange rate)
+                                2. Private School: 35,000 Kenyan Shillings per year. (Approximately $357 USD, depending on exchange rate)
                                 <br/>
-                                3. Boarding School: 55,000 Kenyan Shillings per year. (Approximately $650 USD, depending on exchange rate)
+                                3. Boarding School: 55,000 Kenyan Shillings per year. (Approximately $650 USD, depending on exchange rate)<br/>
+                                <br/>
+                                <span className='font-semibold'>15 - 18 Years Old (HighSchool)</span>
+                                <br/>
+                                There are 2 options for HighSchool:<br/>
+                                <br/>
+                                1. Day-School: 20,000 Kenyan Shillings per year. (Approximately $230 USD, depending on exchange rate)
+                                <br/>
+                                2. Boarding-School: 35,000 Kenyan Shillings per year. (Approximately $357 USD, depending on exchange rate)
+
+
                                 
                             </p>
 
