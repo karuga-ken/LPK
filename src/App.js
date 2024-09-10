@@ -15,6 +15,7 @@ import Salama from './Components/Salama';
 import Sponsor from './Components/Sponsor';
 import Projects from './Components/Projects';
 import Contact from './Components/Contact';
+import Donate from './Components/Donate';
 
 function App() {
   return (
@@ -79,6 +80,14 @@ function App() {
             <>
               <Navbar/>
               <Contact/>
+            </>
+          }></Route>
+
+          
+          <Route path='/donate' element={
+            <>
+              <Navbar/>
+              <Donate/>
             </>
           }></Route>
         </Routes>
