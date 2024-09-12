@@ -3,8 +3,10 @@ import hands from './Images/hands.jpg'
 import team from './Images/team.jpg'
 import { Link } from 'react-router-dom'
 import port from './Images/port.jpg'
-import mary from './Images/mary.jpg'
-import Tabby from './Images/tabby.jpg'
+import mary from './Images/ceo.jpeg'
+import Tabby from './Images/tabitha.jpeg'
+import brenda from './Images/brenda.jpeg'
+import lilian from './Images/lilian.jpeg'
 
 function Aboutlp() {
   return (
@@ -93,61 +95,64 @@ function Aboutlp() {
                 </div>
 
                 <div className=' sm:px-40 mx-5 my-10'>
-                    <h1 className='sm:text-4xl mb-5 text-red-500' style={{letterSpacing:'1px'}}>
-                        Meet Our Team
-                    </h1>
-                    <div className='sm:flex align-center justify-center gap-5 border border-1 border-white border-b-gray-300 mb-4 pb-5'>
-                        <div className='sm:w-1/2 flex flex-col items-center justify-center'>
-                            <img className='rounded-md' src={mary} alt='d'/>
-                            <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
-                            <p className='font-light'>
-                            Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
-                            </p>
-                        </div>
+    <h1 className='sm:text-4xl mb-5 text-red-500' style={{ letterSpacing: '1px' }}>
+        Meet Our Team
+    </h1>
+    <div className='sm:flex align-center justify-center gap-5 border border-1 border-white border-b-gray-300 mb-4 pb-5'>
+        <div className='sm:w-1/2 flex flex-col items-center justify-center'>
+            <img className='rounded-md object-cover w-64 h-64' src={mary} alt='d' />
+            <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
+            <p className='font-light'>
+                Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
+            </p>
+        </div>
 
-                        <div className='sm:w-1/2  flex flex-col items-center justify-center'>
-                            <img className='rounded-md' src={Tabby} alt='d'/>
-                            <h1 className='text-2xl font-semibold'>Tabitha Muthoni</h1>
-                            <p className='font-light'>
-                            Tabby’s smile has been the first thing visitors see when they step foot into the LPK office.
-                            </p>
-                        </div>
-                        
-                        <div className='sm:w-1/2 flex flex-col items-center justify-center'>
-                            <img  className='rounded-md' src={port} alt='df'/>
-                            <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
-                            <p className='font-light'>
-                            Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
-                            </p>
-                        </div>
-                    </div>
+        <div className='sm:w-1/2 flex flex-col items-center justify-center'>
+            <img className='rounded-md object-cover w-64 h-64' src={Tabby} alt='d' />
+            <h1 className='text-2xl font-semibold'>Tabitha Muthoni</h1>
+            <p className='font-light'>
+                Tabby’s smile has been the first thing visitors see when they step foot into the Living Positive Kenya office.
+            </p>
+        </div>
 
-                    <div className='sm:flex align-center justify-center gap-5 '>
-                        <div className='sm:w-1/2 flex flex-col items-center justify-center'>
-                            <img className='rounded-md' src={port} alt='ken'/>
-                            <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
-                            <p className='font-light'>
-                            Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
-                            </p>
-                        </div>
+        <div className='sm:w-1/2 flex flex-col items-center justify-center'>
+            <img className='rounded-md object-cover w-64 h-64' src={brenda} alt='df' />
+            <h1 className='text-2xl font-semibold'>Brenda Wangu</h1>
+            <p className='font-light'>
+                Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
+            </p>
+        </div>
 
-                        <div className='sm:w-1/2 flex flex-col items-center justify-center'>
-                            <img className='rounded-md' src={port} alt='ekn'/>
-                            <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
-                            <p className='font-light'>
-                            Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
-                            </p>
-                        </div>
+        <div className='sm:w-1/2 flex flex-col items-center justify-center'>
+            <img className='rounded-md object-cover w-64 h-64' src={lilian} alt='ken' />
+            <h1 className='text-2xl font-semibold'>Lilian Ayodi</h1>
+            <p className='font-light'>
+                Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
+            </p>
+        </div>
+    </div>
 
-                        <div className='sm:w-1/2 flex flex-col items-center justify-center'>
-                            <img className='rounded-md' src={port} alt='sdf'/>
-                            <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
-                            <p className='font-light'>
-                            Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
-                            </p>
-                        </div>
-                    </div>
-                </div>
+    <div className='sm:flex align-center justify-center gap-5'>
+        
+
+        {/* <div className='sm:w-1/2 flex flex-col items-center justify-center'>
+            <img className='rounded-md object-cover w-64 h-64' src={port} alt='ekn' />
+            <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
+            <p className='font-light'>
+                Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
+            </p>
+        </div>
+
+        <div className='sm:w-1/2 flex flex-col items-center justify-center'>
+            <img className='rounded-md object-cover w-64 h-64' src={port} alt='sdf' />
+            <h1 className='text-2xl font-semibold'>Mary Wanderi</h1>
+            <p className='font-light'>
+                Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
+            </p>
+        </div> */}
+    </div>
+</div>
+
             </div>
         </div>
     </>

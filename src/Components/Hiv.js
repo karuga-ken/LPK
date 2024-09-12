@@ -1,6 +1,7 @@
 import React from 'react'
-import support from './Images/support.jpg'
+import support from './Images/supportlp.jpg'
 import home from './Images/homecare.jpg'
+import advocacy from './Images/ad.jpg'
 
 function Hiv() {
   return (
@@ -26,7 +27,7 @@ function Hiv() {
 
             <div className='sm:flex gap-10 mt-5 sm:mx-12'>
                 <div className='sm:w-1/2'>
-                    <img className='rounded-md' src={support} />
+                    <img className='rounded-md object-cover w-full h-full' src={support} />
                 </div>
                 <div className='sm:w-1/2 '>
                     <p className='sm:text-left font-thin'>
@@ -54,7 +55,7 @@ function Hiv() {
 
             <div className='sm:flex gap-10 mt-5 sm:mx-12'>
                 <div className='sm:w-1/2'>
-                    <img className='rounded-md' src={home} />
+                    <img className='rounded-md' src={advocacy} />
                 </div>
                 <div className='sm:w-1/2 '>
                     <p className='sm:text-left font-thin'>

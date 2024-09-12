@@ -1,8 +1,8 @@
 import React from 'react'
-import salama from './Images/children.jpg'
+import salama from './Images/salamabanner.jpg'
 import daycare from './Images/daycare.jpg'
-import prim from './Images/prim.jpg'
-import upper from './Images/upper.jpg'
+import prim from './Images/preschool.jpg'
+import upper from './Images/primarysc.jpg'
 import { Link } from 'react-router-dom'
 
 function Salama() {
@@ -30,7 +30,7 @@ function Salama() {
                         PROGRAMS AT SALAMA SCHOOL
                     </h1>
 
-                    <div className='sm:flex gap-10 mb-10 mt-10'>
+                    {/* <div className='sm:flex gap-10 mb-10 mt-10'>
                         <div className='sm:w-1/2'>
                             <img className='rounded-md' src={daycare}/>
                         </div>
@@ -44,7 +44,7 @@ function Salama() {
                         </div>
 
 
-                    </div>
+                    </div> */}
 
                     <div className='sm:flex gap-10 mb-10 mt-10'>
                         
