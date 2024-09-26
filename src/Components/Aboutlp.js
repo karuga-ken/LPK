@@ -1,6 +1,6 @@
 import React from 'react'
 import hands from './Images/hands.jpg'
-import team from './Images/team.jpg'
+import team from './Images/teams.jpeg'
 import { Link } from 'react-router-dom'
 import port from './Images/port.jpg'
 import mary from './Images/ceo.jpeg'
@@ -38,7 +38,7 @@ function Aboutlp() {
                 </div>
 
                 <div>
-                    <img className='w-full my-5 sm:px-40' style={{height:'300px',}}  src={team} alt='ken'/>
+                    <img className='w-full my-5 sm:px-40' style={{height:'400px',}}  src={team} alt='ken'/>
                 </div>
 
                 <div className='mb-5'>
