@@ -70,7 +70,7 @@ function Salama() {
                         </div>
                         <div className='sm:w-1/2'>
                             <h1 className='m-4 '>
-                                Primary School
+                                Lower Primary
                             </h1>
                         <h1 className='text-left font-thin'>
                         Our primary school program is dedicated to providing a comprehensive and enriching educational experience for children in Grades 1 to 6. We focus on developing critical thinking, creativity, and a strong foundation in core subjects such as mathematics, science, language arts, and social studies. Our passionate and qualified teachers employ interactive teaching methods that engage students and foster a love for learning. We prioritize not only academic excellence but also social and emotional growth, encouraging teamwork, communication, and problem-solving skills. By creating a supportive and stimulating environment, we prepare our students for future challenges and inspire them to become lifelong learners.

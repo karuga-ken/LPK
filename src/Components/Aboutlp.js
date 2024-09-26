@@ -38,7 +38,7 @@ function Aboutlp() {
                 </div>
 
                 <div>
-                    <img className='w-full my-5 sm:px-40' style={{height:'400px',}}  src={team} alt='ken'/>
+                    <img className='w-full my-5 sm:px-40' style={{height:'',}}  src={team} alt='ken'/>
                 </div>
 
                 <div className='mb-5'>
@@ -56,7 +56,7 @@ function Aboutlp() {
                         The purpose of this program is to get HIV-positive women out of the slums and on to the path to recovery..
                         </p>
                         <Link to='/programs'>
-                        <button className='p-1 rounded-md mt-3 bg-red-500 text-white '>
+                        <button className='p-1 rounded-md mt-3 bg-red-500 hover:bg-black text-white '>
                             Learn More
                         </button>
                         </Link>
