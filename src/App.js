@@ -16,6 +16,7 @@ import Sponsor from './Components/Sponsor';
 import Projects from './Components/Projects';
 import Contact from './Components/Contact';
 import Donate from './Components/Donate';
+import Gallery from './Components/Gallery';
 
 function App() {
   return (
@@ -88,6 +89,13 @@ function App() {
             <>
               <Navbar/>
               <Donate/>
+            </>
+          }></Route>
+
+          <Route path='/gallery' element={
+            <>
+              <Navbar/>
+              <Gallery/>
             </>
           }></Route>
         </Routes>

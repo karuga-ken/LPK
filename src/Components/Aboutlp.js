@@ -4,7 +4,7 @@ import team from './Images/team.jpg'
 import { Link } from 'react-router-dom'
 import port from './Images/port.jpg'
 import mary from './Images/ceo.jpeg'
-import Tabby from './Images/tabitha.jpeg'
+import Tabby from './Images/tabitha.jpg'
 import brenda from './Images/brenda.jpeg'
 import lilian from './Images/lilian.jpeg'
 
@@ -119,7 +119,7 @@ function Aboutlp() {
             <img className='rounded-md object-cover w-64 h-64' src={brenda} alt='df' />
             <h1 className='text-2xl font-semibold'>Brenda Wangu</h1>
             <p className='font-light'>
-                Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
+                Brenda works as the Programme Officer at Living Positive Kenya.
             </p>
         </div>
 
@@ -127,7 +127,7 @@ function Aboutlp() {
             <img className='rounded-md object-cover w-64 h-64' src={lilian} alt='ken' />
             <h1 className='text-2xl font-semibold'>Lilian Ayodi</h1>
             <p className='font-light'>
-                Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya.
+                A social worker by proffession interested in working with OVC to mentor and empower them with life skills. 
             </p>
         </div>
     </div>
