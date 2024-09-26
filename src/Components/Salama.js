@@ -1,8 +1,8 @@
 import React from 'react'
 import salama from './Images/salamabanner.jpg'
 import daycare from './Images/daycare.jpg'
-import prim from './Images/preschool.jpg'
-import upper from './Images/primarysc.jpg'
+import prim from './Images/lp1.jpeg'
+import upper from './Images/lp2.jpeg'
 import { Link } from 'react-router-dom'
 
 function Salama() {
@@ -23,7 +23,7 @@ function Salama() {
 
                 <div className='sm:px-40'>
                     <h1>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                    At our institution, we provide exceptional care and education for children aged 3 to 8 years. We offer a comprehensive curriculum that includes classes from Playgroup through Grade 2. Currently, we proudly serve a community of 120 children, fostering a nurturing environment that promotes growth and learning.
                     </h1>
 
                     <h1 className='text-3xl m-5 font-thin text-blue-500' style={{letterSpacing:'1px'}}>
@@ -53,7 +53,7 @@ function Salama() {
                                 Pre-School
                             </h1>
                         <h1 className='text-left font-thin'>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                        Our preschool program is designed to provide a nurturing and stimulating environment for children aged 3 to 6 years. We focus on holistic development through a play-based curriculum that encourages exploration and creativity. Our qualified educators guide children in key learning areas, including language and literacy, mathematics, creative arts, and physical development. With a strong emphasis on social skills and teamwork, we prepare our young learners for a seamless transition to primary education. Committed to fostering a love for learning, our program not only supports academic growth but also engages parents and the community in the educational journey.
                         </h1>
                         </div>
 
@@ -73,7 +73,7 @@ function Salama() {
                                 Primary School
                             </h1>
                         <h1 className='text-left font-thin'>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                        Our primary school program is dedicated to providing a comprehensive and enriching educational experience for children in Grades 1 to 6. We focus on developing critical thinking, creativity, and a strong foundation in core subjects such as mathematics, science, language arts, and social studies. Our passionate and qualified teachers employ interactive teaching methods that engage students and foster a love for learning. We prioritize not only academic excellence but also social and emotional growth, encouraging teamwork, communication, and problem-solving skills. By creating a supportive and stimulating environment, we prepare our students for future challenges and inspire them to become lifelong learners.
                         </h1>
                         </div>
 
