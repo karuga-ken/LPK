@@ -20,7 +20,7 @@ function Identity() {
 
             <div className='bg-white sm:w-1/2 sm:text-left  pb-8 p-2 rounded-md h-auto'>
                 <h1 className='text-5xl mb-5'>
-                    Who Are We?
+                    Who We Are
                 </h1>
                 <h1>
                 The Vision of Living Positive Kenya is to give women in economic distress a life of hope for sustainable and independent opportunities. 

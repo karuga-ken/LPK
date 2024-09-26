@@ -53,7 +53,7 @@ function Salama() {
                                 Pre-School
                             </h1>
                         <h1 className='text-left font-thin'>
-                        Our preschool program is designed to provide a nurturing and stimulating environment for children aged 3 to 6 years. We focus on holistic development through a play-based curriculum that encourages exploration and creativity. Our qualified educators guide children in key learning areas, including language and literacy, mathematics, creative arts, and physical development. With a strong emphasis on social skills and teamwork, we prepare our young learners for a seamless transition to primary education. Committed to fostering a love for learning, our program not only supports academic growth but also engages parents and the community in the educational journey.
+                        Our preschool program is designed to provide a nurturing and stimulating environment for children aged 3 to 5 years. We focus on holistic development through a play-based curriculum that encourages exploration and creativity. Our qualified educators guide children in key learning areas, including language and literacy, mathematics, creative arts, and physical education. With a strong emphasis on social skills and teamwork, we prepare our young learners for a seamless transition to primary education. Committed to fostering a love for learning, our program not only supports academic growth but also engages parents and the community in the educational journey.
                         </h1>
                         </div>
 
@@ -73,7 +73,7 @@ function Salama() {
                                 Lower Primary
                             </h1>
                         <h1 className='text-left font-thin'>
-                        Our primary school program is dedicated to providing a comprehensive and enriching educational experience for children in Grades 1 to 6. We focus on developing critical thinking, creativity, and a strong foundation in core subjects such as mathematics, science, language arts, and social studies. Our passionate and qualified teachers employ interactive teaching methods that engage students and foster a love for learning. We prioritize not only academic excellence but also social and emotional growth, encouraging teamwork, communication, and problem-solving skills. By creating a supportive and stimulating environment, we prepare our students for future challenges and inspire them to become lifelong learners.
+                        Our primary school program is dedicated to providing a comprehensive and enriching educational experience for children in Grade 1 and Grade 2. We focus on developing critical thinking, creativity, and a strong foundation in core subjects such as mathematics, science, languages, Creatives, Hygiene and social studies. Our passionate and qualified teachers employ interactive teaching methods that engage students and foster a love for learning. We prioritize not only academic excellence but also social and emotional growth, encouraging teamwork, communication, and problem-solving skills. By creating a supportive and stimulating environment, we prepare our students for future challenges and inspire them to become lifelong learners.
                         </h1>
                         </div>
 
