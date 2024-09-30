@@ -111,7 +111,7 @@ function Aboutlp() {
             <img className='rounded-md object-cover w-64 h-64' src={Tabby} alt='d' />
             <h1 className='text-2xl font-semibold'>Tabitha Muthoni</h1>
             <p className='font-light'>
-                Tabby’s smile has been the first thing visitors see when they step foot into the Living Positive Kenya office.
+                Tabby’s smile has been the first thing visitors see when they step foot into the Living Positive Kenya office.<span className='text-white'>at Living Positive </span>
             </p>
         </div>
 
@@ -119,7 +119,7 @@ function Aboutlp() {
             <img className='rounded-md object-cover w-64 h-64' src={brenda} alt='df' />
             <h1 className='text-2xl font-semibold'>Brenda Wangu</h1>
             <p className='font-light'>
-                Brenda works as the Programme Officer at Living Positive Kenya (LPK).
+                Brenda works as the Programme Officer at Living Positive Kenya (LPK).<span className='text-white'>at Living Positive Kenya</span>
             </p>
         </div>
 
