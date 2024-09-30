@@ -41,10 +41,7 @@ function Intern() {
                     <div className='w-full lg:w-1/2 sm:text-left'>
                         <h1 className='text-gray-400 mb-5' style={{letterSpacing:'1px'}}>STEP TWO</h1>
                         <p className='text-3xl mb-5' style={{letterSpacing:'1px'}}>Get Internship Application Form</p>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                        there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean
-                        Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
-                         Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean..
+                        <p> Click the "Download Form" button to save the PDF file to your device. After downloading, open the form using a PDF reader such as Adobe Acrobat Reader or any other suitable app. You can either fill in the form digitally using a PDF editor or print it out to complete by hand. Make sure to fill in all the required fields. 
                          </p>
                          <a href={Internform} download='Internship Form'>
                             <button className='p-2 bg-red-500 rounded-md mt-5 text-white hover:bg-black'>Download Internship Form</button>
@@ -56,10 +53,7 @@ function Intern() {
                     <div className='w-full lg:w-1/2 sm:text-left'>
                         <h1 className='text-gray-400 mb-5' style={{letterSpacing:'1px'}}>STEP THREE</h1>
                         <p className='text-3xl mb-5' style={{letterSpacing:'1px'}}>Email Your Application</p>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                        there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean
-                        Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
-                         Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean..
+                        <p>Once you've completed the internship form, the next step is to send it to us via email. Attach the completed form to an email and send it to <span className='text-red-500'>livingpositivekenya@gmail.com</span>. Be sure to use a clear subject line like "Completed Internship Application - [Your Name]" to ensure it gets processed quickly. In the body of the email, include a brief message introducing yourself and confirming that you've attached the filled-in form. After submitting your application, we will review your details, and our team will get back to you within a few business days with the next steps. Thank you for your interest, and we look forward to reviewing your application!
                          </p>
                     </div>
 

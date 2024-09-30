@@ -1,7 +1,7 @@
 import React from 'react'
 import salama from './Images/salamabanner.jpg'
 import daycare from './Images/daycare.jpg'
-import prim from './Images/lp1.jpeg'
+import prim from './Images/kids.jpeg'
 import upper from './Images/lp2.jpeg'
 import { Link } from 'react-router-dom'
 

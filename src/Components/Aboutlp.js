@@ -1,10 +1,10 @@
 import React from 'react'
 import hands from './Images/hands.jpg'
-import team from './Images/teams.jpeg'
+import team from './Images/staffimg.jpeg'
 import { Link } from 'react-router-dom'
 import port from './Images/port.jpg'
 import mary from './Images/ceo.jpeg'
-import Tabby from './Images/tabitha.jpg'
+import Tabby from './Images/newtab.jpeg'
 import brenda from './Images/brenda.jpeg'
 import lilian from './Images/lilian.jpeg'
 
@@ -119,7 +119,7 @@ function Aboutlp() {
             <img className='rounded-md object-cover w-64 h-64' src={brenda} alt='df' />
             <h1 className='text-2xl font-semibold'>Brenda Wangu</h1>
             <p className='font-light'>
-                Brenda works as the Programme Officer at Living Positive Kenya.
+                Brenda works as the Programme Officer at Living Positive Kenya (LPK).
             </p>
         </div>
 

@@ -1,7 +1,7 @@
 import React from 'react'
 import support from './Images/supportlp.jpg'
 import home from './Images/homecare.jpg'
-import advocacy from './Images/ad.jpg'
+import advocacy from './Images/advocacy.jpeg'
 
 function Hiv() {
   return (
@@ -59,7 +59,7 @@ function Hiv() {
                 </div>
                 <div className='sm:w-1/2 '>
                     <p className='sm:text-left font-thin'>
-                        ADVOCACY<br/>
+                        SELF ADVOCACY AND LOBBYING<br/>
                         <br/>
                         Self-advocacy is an important skill women must learn in order to empower themselves. It is also equally important to educate the community on HIV/AIDS through community events.<br/>
                     </p>
