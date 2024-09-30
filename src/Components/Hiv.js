@@ -1,6 +1,6 @@
 import React from 'react'
 import support from './Images/supportlp.jpg'
-import home from './Images/homecare.jpg'
+import home from './Images/home.jpeg'
 import advocacy from './Images/advocacy.jpeg'
 
 function Hiv() {

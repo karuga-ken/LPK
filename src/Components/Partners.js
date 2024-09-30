@@ -1,6 +1,5 @@
 import React from 'react'
 import maisha from './Images/maishaimg.jpg'
-import aiesec from './Images/aiesecimg.jpg'
 import gy from './Images/gyvnimg.jpg'
 import kcdf from './Images/kcdfimg.jpg'
 import long from './Images/longonoteduimg.jpg'
@@ -18,21 +17,21 @@ function Partners() {
 
             <div className='gap-10 p-10'>
                 <img src={maisha}/>
-                <img src={aiesec}/>
                 <img src={gy}/>
-                
+                <img src={one}/>
 
             </div>
             <div className='gap-10 p-10'>
                 <img src={long}/>
                 <img src={love}/>
-                <img src={one}/>
+                <img src={maji}/>
+                
             </div>
 
             <div className=' gap-10 p-10'>
                 <img src={steve}/>
                 <img src={kcdf}/>
-                <img src={maji}/>
+                
 
             </div>
         </div>
