@@ -43,9 +43,13 @@ function Intern() {
                         <p className='text-3xl mb-5' style={{letterSpacing:'1px'}}>Get Internship Application Form</p>
                         <p> Click the "Download Form" button to save the PDF file to your device. After downloading, open the form using a PDF reader such as Adobe Acrobat Reader or any other suitable app. You can either fill in the form digitally using a PDF editor or print it out to complete by hand. Make sure to fill in all the required fields. 
                          </p>
-                         <a href={Internform} download='Internship Form'>
+
+                         <Link to='https://forms.gle/rbF1hVc6mnYBDWr59'>
+                         <button className='p-2 bg-red-500 rounded-md mt-5 text-white hover:bg-black'>Download Internship Form</button>
+                         </Link>
+                         {/* <a href={Internform} download='Internship Form'>
                             <button className='p-2 bg-red-500 rounded-md mt-5 text-white hover:bg-black'>Download Internship Form</button>
-                         </a>
+                         </a> */}
                     </div>
                 </div>
 
