@@ -45,7 +45,7 @@ function Intern() {
                          </p>
 
                          <Link to='https://forms.gle/rbF1hVc6mnYBDWr59'>
-                         <button className='p-2 bg-red-500 rounded-md mt-5 text-white hover:bg-black'>Download Internship Form</button>
+                         <button className='p-2 bg-red-500 rounded-md mt-5 text-white hover:bg-black'>Fill Internship Form</button>
                          </Link>
                          {/* <a href={Internform} download='Internship Form'>
                             <button className='p-2 bg-red-500 rounded-md mt-5 text-white hover:bg-black'>Download Internship Form</button>

@@ -3,6 +3,7 @@ import Connect from './Images/Time.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPhoneVolume, faEnvelopeCircleCheck } from '@fortawesome/free-solid-svg-icons';
 import { faInstagram, faFacebook } from '@fortawesome/free-brands-svg-icons'; // Import Facebook icon
+import { Link } from 'react-router-dom';
 
 function Contact() {
   return (
@@ -36,13 +37,19 @@ function Contact() {
               <FontAwesomeIcon icon={faEnvelopeCircleCheck} /> <span className='text-black text-xl'>livingpositivekenya@gmail.com</span>
             </p>
             <br/>
-            <p className='text-left' style={{ fontSize: window.innerWidth < 768 ? '2rem' : '1rem', color: 'green' }}>
-              <FontAwesomeIcon icon={faInstagram} /> <span className='text-black text-xl'>livingPositiveKenya</span>
-            </p>
+            <Link to='https://www.instagram.com/lpkenya/'>
+              <p className='text-left' style={{ fontSize: window.innerWidth < 768 ? '2rem' : '1rem', color: 'green' }}>
+                <FontAwesomeIcon icon={faInstagram} /> <span className='text-black text-xl'>livingPositiveKenya</span>
+              </p>
+            </Link>
+
             <br/>
+            <Link to='https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi0y9Gnre-IAxVr7wIHHRvmK6gQFnoECBgQAQ&url=https%3A%2F%2Fwww.facebook.com%2Flivingpositivekenya%2F&usg=AOvVaw096lZVNmzyA0Q_oL8hFf4B&opi=89978449'>
             <p className='text-left' style={{ fontSize: window.innerWidth < 768 ? '2rem' : '1rem', color: 'green' }}>
               <FontAwesomeIcon icon={faFacebook} /> <span className='text-black text-xl'>LivingPositiveKenya</span>
             </p>
+            </Link>
+
           </div>
         </div>
       </div>
