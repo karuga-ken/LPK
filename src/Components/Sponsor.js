@@ -74,7 +74,7 @@ function Sponsor() {
                     SPONSOR A CHILD
                 </h1>
 
-                <div className='flex gap-10 mb-10 mt-10 items-center flex-col-reverse sm:flex-row'>
+                <div className='flex gap-10 mb-10 mt-10 items-center flex-col-reverse sm:flex-row shadow-2xl p-2'>
                     <div className='sm:w-1/2'>
                         <h1 className='m-2 text-2xl font-semibold'>
                             Name: Martin Kilonzo
@@ -97,7 +97,7 @@ function Sponsor() {
                     </div>
                 </div>
 
-                <div className='flex gap-10 mb-10 mt-10 items-center flex-col-reverse sm:flex-row'>
+                <div className='flex gap-10 mb-10 mt-10 items-center flex-col-reverse shadow-2xl p-2 sm:flex-row'>
                     <div className='sm:w-1/2'>
                         <h1 className='m-2 text-2xl font-semibold'>
                             Name: Shirleen Chemtai
