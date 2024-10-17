@@ -1,5 +1,5 @@
 import React from 'react';
-import kid from './Images/kid.jpg';
+import kid from './Images/kidss.jpg';
 import salama from './Images/salama.jpg';
 import john from './Images/MARTIN.jpg';
 import shirleen from './Images/shirleen.jpg';
@@ -69,23 +69,23 @@ function Sponsor() {
                 </div>
             </div>
 
-            <div className='sm:px-24 sm:mx-20 w-full'>
+            <div className='sm:px-24 sm:mx-20 w-auto'>
                 <h1 className='sm:text-3xl text-red-500' style={{letterSpacing:'1px'}}>
                     SPONSOR A CHILD
                 </h1>
 
-                <div className='flex gap-10 mb-10 mt-10 items-center flex-col-reverse sm:flex-row shadow-2xl p-2'>
+                <div className='flex gap-10 mb-10 mt-10 items-center flex-col-reverse sm:flex-row shadow-2xl rounded-md p-2'>
                     <div className='sm:w-1/2'>
                         <h1 className='m-2 text-2xl font-semibold'>
                             Name: Martin Kilonzo
                         </h1>
-                        <p className='m-4 text-xl'>
+                        <p className='m-2 text-xl'>
                             Age: 5 Years Old
                         </p>
                         <p className='m-2 text-xl font-semibold'>
                             Martin's General Status
                         </p>
-                        <p className='pt-4 px-20 text-left'>
+                        <p className='pt-2 px-2 text-left'>
                             The parents are involved in odd jobs to cater for their needs. However, they have not been able to cater for their childrens needs and are hoping that martin would find help with his education. The parents are also not able to meet the basic needs of the children, Martin is a good pupil and an average performer in class he aspires to get education and eventually train as a teacher.
                         </p>
                         <h1 className='sm:text-left font-thin'>
@@ -102,13 +102,13 @@ function Sponsor() {
                         <h1 className='m-2 text-2xl font-semibold'>
                             Name: Shirleen Chemtai
                         </h1>
-                        <p className='m-4 text-xl'>
+                        <p className='m-2 text-xl'>
                             Age: 6 Years Old
                         </p>
                         <p className='m-2 text-xl font-semibold'>
                             Shirleen's General Status
                         </p>
-                        <p className='pt-4 px-20 text-left'>
+                        <p className='pt-2 px-2 text-left'>
                             Shirleen is the first born in the family of two children. Her mother was married but she separated with her husband due to domestic violence. For the sake of peace, she left and rented a house for her family, She gets to do odd jobs like cleaning which is sustainable to meet the needs of her children.<br/>
                             Shirleen is an average student and there is hope for her to improve if she receives help with her education.<br/>
                             She aspires to be a teacher.

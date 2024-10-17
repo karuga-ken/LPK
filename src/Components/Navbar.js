@@ -29,7 +29,7 @@ function Navbar() {
             <Link to='/about' className='block sm:inline border-b-2 border-transparent hover:border-red-500 p-2'>Our History</Link>
             <Link to='/intern-page' className='block sm:inline border-b-2 border-transparent hover:border-red-500 p-2'>Volunteer</Link>
             <Link to='/donate' className='block sm:inline border-b-2 border-transparent hover:border-red-500 p-2'>Donate</Link>
-            <Link to='/gallery' className='block sm:inline border-b-2 border-transparent hover:border-red-500 p-2'>Gallery</Link>
+            {/* <Link to='/gallery' className='block sm:inline border-b-2 border-transparent hover:border-red-500 p-2'>Gallery</Link> */}
             <Link to='/contact' className='block sm:inline border-b-2 border-transparent hover:border-red-500 p-2'>Contact</Link>
           </div>
         </div>
