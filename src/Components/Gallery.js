@@ -6,7 +6,7 @@ function Gallery() {
     <div>
         <div>
             <h1 className='text-3xl font-semibold' style={{letterSpacing:'1px'}}>
-                Our Gallery
+                Comming Soon!!
             </h1>
             <div>
                 {/* create a gallery here with three images per row and when clicked they pop up*/}

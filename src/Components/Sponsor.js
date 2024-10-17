@@ -1,8 +1,8 @@
 import React from 'react';
 import kid from './Images/kid.jpg';
 import salama from './Images/salama.jpg';
-import john from './Images/john.jpg';
-import girl from './Images/girl.jpg';
+import john from './Images/MARTIN.jpg';
+import shirleen from './Images/shirleen.jpg';
 import hap from './Images/hap.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBowlFood, faGraduationCap, faHeartCircleCheck, faShirt, faUmbrella, faUserDoctor } from '@fortawesome/free-solid-svg-icons';
@@ -74,13 +74,22 @@ function Sponsor() {
                     SPONSOR A CHILD
                 </h1>
 
-                <div className='flex gap-10 mb-10 mt-10 flex-col-reverse sm:flex-row'>
+                <div className='flex gap-10 mb-10 mt-10 items-center flex-col-reverse sm:flex-row'>
                     <div className='sm:w-1/2'>
-                        <h1 className='m-4 '>
-                            John Doe John
+                        <h1 className='m-2 text-2xl font-semibold'>
+                            Name: Martin Kilonzo
                         </h1>
+                        <p className='m-4 text-xl'>
+                            Age: 5 Years Old
+                        </p>
+                        <p className='m-2 text-xl font-semibold'>
+                            Martin's General Status
+                        </p>
+                        <p className='pt-4 px-20 text-left'>
+                            The parents are involved in odd jobs to cater for their needs. However, they have not been able to cater for their childrens needs and are hoping that martin would find help with his education. The parents are also not able to meet the basic needs of the children, Martin is a good pupil and an average performer in class he aspires to get education and eventually train as a teacher.
+                        </p>
                         <h1 className='sm:text-left font-thin'>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                            
                         </h1>
                     </div>
                     <div className='sm:w-1/2'>
@@ -88,33 +97,32 @@ function Sponsor() {
                     </div>
                 </div>
 
-                <div className='flex gap-10 mb-10 mt-10 flex-col-reverse sm:flex-row'>
+                <div className='flex gap-10 mb-10 mt-10 items-center flex-col-reverse sm:flex-row'>
                     <div className='sm:w-1/2'>
-                        <h1 className='m-4 '>
-                            Kim Jane Doe
+                        <h1 className='m-2 text-2xl font-semibold'>
+                            Name: Shirleen Chemtai
                         </h1>
+                        <p className='m-4 text-xl'>
+                            Age: 6 Years Old
+                        </p>
+                        <p className='m-2 text-xl font-semibold'>
+                            Shirleen's General Status
+                        </p>
+                        <p className='pt-4 px-20 text-left'>
+                            Shirleen is the first born in the family of two children. Her mother was married but she separated with her husband due to domestic violence. For the sake of peace, she left and rented a house for her family, She gets to do odd jobs like cleaning which is sustainable to meet the needs of her children.<br/>
+                            Shirleen is an average student and there is hope for her to improve if she receives help with her education.<br/>
+                            She aspires to be a teacher.
+                        </p>
                         <h1 className='sm:text-left font-thin'>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                            
                         </h1>
                     </div>
                     <div className='sm:w-1/2'>
-                        <img className='rounded-md' src={hap} alt='d'/>
+                        <img className='rounded-md object-cover' src={shirleen} alt='d'/>
                     </div>
                 </div>
 
-                <div className='flex gap-10 mb-10 mt-10 flex-col-reverse sm:flex-row'>
-                    <div className='sm:w-1/2'>
-                        <h1 className='m-4 '>
-                            Live Jane Doe
-                        </h1>
-                        <h1 className='sm:text-left font-thin'>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                        </h1>
-                    </div>
-                    <div className='sm:w-1/2'>
-                        <img className='rounded-md' src={girl} alt='e'/>
-                    </div>
-                </div>
+
 
             </div>
         </div>
