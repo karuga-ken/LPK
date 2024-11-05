@@ -5,6 +5,7 @@ import { faFacebook,faSquareInstagram } from '@fortawesome/free-brands-svg-icons
 import { faPhone, faEnvelope } from '@fortawesome/free-solid-svg-icons';
 
 function Footer() {
+    
   return (
     <>
       <div className='bg-red-500 p-4 sm:flex align-center justify-center gap-5'>
@@ -35,6 +36,7 @@ function Footer() {
             info@livingpositivekenya.or.ke</h1>
         </div>
       </div>
+      
       
     </>
   );

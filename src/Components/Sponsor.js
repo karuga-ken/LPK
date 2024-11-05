@@ -1,8 +1,7 @@
 import React from 'react';
 import kid from './Images/kidss.jpg';
 import salama from './Images/salama.jpg';
-import john from './Images/MARTIN.jpg';
-import shirleen from './Images/shirleen.jpg';
+import john from './Images/susan.jpg';
 import hap from './Images/hap.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBowlFood, faGraduationCap, faHeartCircleCheck, faShirt, faUmbrella, faUserDoctor } from '@fortawesome/free-solid-svg-icons';
@@ -77,16 +76,17 @@ function Sponsor() {
                 <div className='flex gap-10 mb-10 mt-10 items-center flex-col-reverse sm:flex-row shadow-2xl rounded-md p-2'>
                     <div className='sm:w-1/2'>
                         <h1 className='m-2 text-2xl font-semibold'>
-                            Name: Martin Kilonzo
+                            Name: Susan Wacuka
                         </h1>
                         <p className='m-2 text-xl'>
                             Age: 5 Years Old
                         </p>
                         <p className='m-2 text-xl font-semibold'>
-                            Martin's General Status
+                            Susan's General Status
                         </p>
                         <p className='pt-2 px-2 text-left'>
-                            The parents are involved in odd jobs to cater for their needs. However, they have not been able to cater for their childrens needs and are hoping that martin would find help with his education. The parents are also not able to meet the basic needs of the children, Martin is a good pupil and an average performer in class he aspires to get education and eventually train as a teacher.
+                        Susan is a second born in a family of 3. Susan likes playing, helping her mother and her favorite color is pink, she likes to stay neat and likes clean clothes. She admires being smart like her mother. She goes to school in Ngong town. At school she is very active. She understands what the teacher writes on the blackboard but she has difficulty writing, she likes drawing and loves rice with aromas and spiced food. <br/>
+                        Her mother is currently enrolled in the WEEP Program.
                         </p>
                         <h1 className='sm:text-left font-thin'>
                             
@@ -97,30 +97,7 @@ function Sponsor() {
                     </div>
                 </div>
 
-                <div className='flex gap-10 mb-10 mt-10 items-center flex-col-reverse shadow-2xl p-2 sm:flex-row'>
-                    <div className='sm:w-1/2'>
-                        <h1 className='m-2 text-2xl font-semibold'>
-                            Name: Shirleen Chemtai
-                        </h1>
-                        <p className='m-2 text-xl'>
-                            Age: 6 Years Old
-                        </p>
-                        <p className='m-2 text-xl font-semibold'>
-                            Shirleen's General Status
-                        </p>
-                        <p className='pt-2 px-2 text-left'>
-                            Shirleen is the first born in the family of two children. Her mother was married but she separated with her husband due to domestic violence. For the sake of peace, she left and rented a house for her family, She gets to do odd jobs like cleaning which is sustainable to meet the needs of her children.<br/>
-                            Shirleen is an average student and there is hope for her to improve if she receives help with her education.<br/>
-                            She aspires to be a teacher.
-                        </p>
-                        <h1 className='sm:text-left font-thin'>
-                            
-                        </h1>
-                    </div>
-                    <div className='sm:w-1/2'>
-                        <img className='rounded-md object-cover' src={shirleen} alt='d'/>
-                    </div>
-                </div>
+                
 
 
 
