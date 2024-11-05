@@ -12,7 +12,7 @@ function Identity() {
 
         // Animate service element
         gsap.fromTo(serviceElement, 
-            { opacity: 0, x: -200 }, 
+            { opacity: 0, x: -70 }, 
             { 
                 opacity: 1, 
                 x: 0, 
@@ -27,7 +27,7 @@ function Identity() {
 
         // Animate mission element
         gsap.fromTo(missionElement, 
-            { opacity: 0, x: 200 }, 
+            { opacity: 0, x: 100 }, 
             { 
                 opacity: 1, 
                 x: 0, 

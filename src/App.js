@@ -17,6 +17,7 @@ import Projects from './Components/Projects';
 import Contact from './Components/Contact';
 import Donate from './Components/Donate';
 import Gallery from './Components/Gallery';
+import Footer from './Components/Footer';
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
               <Success/>
               <Fund/>
               <Partners/>
+              <Footer/>
             </>
           }></Route>
 
@@ -39,6 +41,7 @@ function App() {
             <>
               <Navbar/>
               <Intern/>
+              <Footer/>
             </>
           }></Route>
 
@@ -46,6 +49,7 @@ function App() {
             <>
             <Navbar/>
             <About/>
+            <Footer/>
             </>
           }></Route>
 
@@ -53,6 +57,7 @@ function App() {
             <>
             <Navbar/>
             <Aboutlp/>
+            <Footer/>
             </>
           }></Route>
 
@@ -60,6 +65,7 @@ function App() {
             <>
               <Navbar/>
               <Salama/>
+              <Footer/>
             </>
           }></Route>
 
@@ -67,6 +73,7 @@ function App() {
             <>
               <Navbar/>
               <Sponsor/>
+              <Footer/>
             </>
           }></Route>
 
@@ -81,6 +88,7 @@ function App() {
             <>
               <Navbar/>
               <Contact/>
+              <Footer/>
             </>
           }></Route>
 
@@ -89,6 +97,7 @@ function App() {
             <>
               <Navbar/>
               <Donate/>
+              <Footer/>
             </>
           }></Route>
 
@@ -96,6 +105,7 @@ function App() {
             <>
               <Navbar/>
               <Gallery/>
+              <Footer/>
             </>
           }></Route>
         </Routes>
