@@ -49,7 +49,7 @@ function App() {
             <>
             <Navbar/>
             <About/>
-            <Footer/>
+            {/* <Footer/> */}
             </>
           }></Route>
 

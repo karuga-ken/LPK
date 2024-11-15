@@ -56,9 +56,14 @@ function Intern() {
                 <div className='mr-5 ml-5 mb-5 pr-12 pl-12 flex gap-10 flex-col lg:flex-row'>
                     <div className='w-full lg:w-1/2 sm:text-left'>
                         <h1 className='text-gray-400 mb-5' style={{letterSpacing:'1px'}}>STEP THREE</h1>
-                        <p className='text-3xl mb-5' style={{letterSpacing:'1px'}}>Email Your Application</p>
-                        <p>Once you've completed the internship form, the next step is to send it to us via email. Attach the completed form to an email and send it to <span className='text-red-500'>livingpositivekenya@gmail.com</span>. Be sure to use a clear subject line like "Completed Internship Application - [Your Name]" to ensure it gets processed quickly. In the body of the email, include a brief message introducing yourself and confirming that you've attached the filled-in form. After submitting your application, we will review your details, and our team will get back to you within a few business days with the next steps. Thank you for your interest, and we look forward to reviewing your application!
-                         </p>
+                        <p className='text-3xl mb-5' style={{letterSpacing:'1px'}}>Getting Back To You</p>
+                        <p>
+                            Once you have filled out the internship form we will get your response and initiate further communication and planning for your internship as soon as possible. <br/>For more information regarding the internship program kindly email us at <span className='text-red-500'>livingpositivekenya@gmail.com</span>
+                            <br/>Thank You.
+
+                        </p>
+                        {/* <p>Once you've completed the internship form, the next step is to send it to us via email. Attach the completed form to an email and send it to <span className='text-red-500'>livingpositivekenya@gmail.com</span>. Be sure to use a clear subject line like "Completed Internship Application - [Your Name]" to ensure it gets processed quickly. In the body of the email, include a brief message introducing yourself and confirming that you've attached the filled-in form. After submitting your application, we will review your details, and our team will get back to you within a few business days with the next steps. Thank you for your interest, and we look forward to reviewing your application!
+                         </p> */}
                     </div>
 
                     <div className='w-full lg:w-1/2 hidden lg:block'>
