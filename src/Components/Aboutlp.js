@@ -5,7 +5,6 @@ import { Link } from 'react-router-dom';
 import mary from './Images/ceo.jpeg';
 import Tabby from './Images/newtab.jpeg';
 import brenda from './Images/brenda.jpeg';
-import lilian from './Images/lilian.jpeg';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 
@@ -122,7 +121,6 @@ function Aboutlp() {
                             { img: mary, name: "Mary Wanderi", desc: "Mum, as she is fondly referred to by staff and participants alike, is the brain and engine behind Living Positive Kenya." },
                             { img: Tabby, name: "Tabitha Muthoni", desc: "Tabby’s smile has been the first thing visitors see when they step foot into the Living Positive Kenya office." },
                             { img: brenda, name: "Brenda Wangu", desc: "Brenda works as the Programme Officer at Living Positive Kenya (LPK)." },
-                            { img: lilian, name: "Lilian Ayodi", desc: "A social worker by profession interested in working with OVC to mentor and empower them with life skills." }
                         ].map((worker, index) => (
                             <div key={index} className='worker sm:w-1/2 flex flex-col items-center justify-center opacity-0'>
                                 <img className='rounded-md object-cover w-64 h-64' src={worker.img} alt={worker.name} />
